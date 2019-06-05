@@ -22,19 +22,7 @@
 		</dependency>
 			
 	</dependencies>
-	<!--<distributionManagement>
-					<snapshotRepository>
-				<id>nexus</id>
-				<name>Gamutkart</name>
-				<url>http://52.66.251.172:8081/repository/Gamutkart-SNAPSHOT/</url>
-			</snapshotRepository>
-			<repository>
-				<id>nexus</id>
-				<name>Gamutkart</name>
-				<url>http://52.66.251.172:8081/repository/Gamutkart-Release/</url>
-			</repository>
-			</distributionManagement>  -->
-	<build>
+		<build>
 		<finalName>gamutkart</finalName>
 	</build>
 	
